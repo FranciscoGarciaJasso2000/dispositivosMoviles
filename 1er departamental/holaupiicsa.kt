@@ -1,6 +1,6 @@
 fun main() {
     // Mensaje Hola upiicsa
-    print("Hola mundo!")
+    print("Hello UPIICSA!")
     
     //Se imprime cualquier otro mensaje 
     println("Ay si la ven me la saludan")
